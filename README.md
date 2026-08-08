@@ -89,8 +89,7 @@ is model-agnostic.
 
 ## Citation
 
-If you use this code or data, please cite the VANDAlize paper (EMNLP LUHME
-workshop) — see `CITATION.cff` once the paper is finalized.
+If you use this code or data, please cite this repository. A paper is in preparation.
 
 ## Acknowledgments
 
